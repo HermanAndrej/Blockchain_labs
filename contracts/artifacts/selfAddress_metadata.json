@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "returnSelfAddress",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/selfAddress.sol": "selfAddress"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/selfAddress.sol": {
+			"keccak256": "0xb28acd6f6ae0128d9e51230fe1033a7d72db2cdf7f493b654f392c54a643fca5",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://fb0670d715c28ca81360c20aae8b4bd30c70d394a824a162b1d9003927094f23",
+				"dweb:/ipfs/QmVAh4zwegEmeAyWbqQDMArp6fmApARC1oz4a7ANmo7ETC"
+			]
+		}
+	},
+	"version": 1
+}
